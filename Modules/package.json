@@ -1,0 +1,19 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "Aprendiendo NodeJS",
+  "main": "M-express.js",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node M-express.js"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "G4brieljs",
+  "license": "ISC"
+}
